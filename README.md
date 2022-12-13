@@ -5,3 +5,5 @@ Cambio desde Github.com
 Recibido en local
 
 # Introducción
+
+git push desde gitkraken
