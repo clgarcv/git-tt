@@ -7,3 +7,5 @@ Recibido en local
 # Introducción
 
 git push desde gitkraken
+
+# Cambios realizados por Julio
