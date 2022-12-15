@@ -11,3 +11,5 @@ git push desde gitkraken
 ## Compartiendo proyecto con Julio
 
 Primer cambio
+
+Resolviendo conflictos en local
