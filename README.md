@@ -14,3 +14,6 @@ Y hago algun otro cambio (con su commit)
 ## Compartiendo proyecto con Julio
 
 Primer cambio
+
+Otro cambio más...
+Para no tener que resolver conflictos a mano.
