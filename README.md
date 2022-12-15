@@ -16,3 +16,7 @@ Y hago algun otro cambio (con su commit)
 Primer cambio
 
 Resolviendo conflictos en local
+
+
+Otro cambio más...
+Para no tener que resolver conflictos a mano.
