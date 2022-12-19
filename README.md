@@ -21,4 +21,12 @@ Resolviendo conflictos en local
 Otro cambio más...
 Para no tener que resolver conflictos a mano.
 
+<<<<<<< HEAD
 Esto es para la feature 4 !!!
+=======
+Cambios en feature 3 utilizando los comandos de git flow
+
+Cambios en feature 5 (hechos por Julio)
+
+Cmabios para el release 0.0.1
+>>>>>>> release/0.0.1
