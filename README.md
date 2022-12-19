@@ -20,3 +20,5 @@ Resolviendo conflictos en local
 
 Otro cambio más...
 Para no tener que resolver conflictos a mano.
+
+Cambios en feature 3 utilizando los comandos de git flow
