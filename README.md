@@ -20,3 +20,5 @@ Resolviendo conflictos en local
 
 Otro cambio más...
 Para no tener que resolver conflictos a mano.
+
+Esto es para la feature 4 !!!
