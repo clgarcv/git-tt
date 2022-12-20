@@ -4,11 +4,17 @@ Hola
 Cambio desde Github.com
 Recibido en local
 
-# Introducción
+## Participantes
+
+- Clara García
+- Julio Losantos
+- Rodrigo Valdelvira
+
+## Introducción
 
 git push desde gitkraken
 
-# Cambios realizados por Julio
+## Cambios realizados por Julio
 
 Y hago algun otro cambio (con su commit)
 
@@ -25,7 +31,7 @@ Cambios en feature 3 utilizando los comandos de git flow
 
 Cambios en feature 5 (hechos por Julio)
 
-Cmabios para el release 0.0.1
+Cambios para el release 0.0.1
 
 Cambios para el release 0.0.2 (hechos por Julio)
 
