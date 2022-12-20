@@ -31,6 +31,6 @@ Cambios en feature 3 utilizando los comandos de git flow
 
 Cambios en feature 5 (hechos por Julio)
 
-Cmabios para el release 0.0.1
+Cambios para el release 0.0.1
 
 Cambios para el release 0.0.2 (hechos por Julio)
