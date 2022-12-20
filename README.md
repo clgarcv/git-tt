@@ -34,3 +34,5 @@ Cambios en feature 5 (hechos por Julio)
 Cambios para el release 0.0.1
 
 Cambios para el release 0.0.2 (hechos por Julio)
+
+* Probando el comportamiento de bugfix
