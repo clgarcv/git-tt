@@ -6,15 +6,16 @@ Recibido en local
 
 ## Participantes
 
-* Clara García 
-* Julio Losantos
-* Rodrigo Valdelvira
+- Clara García
+- Julio Losantos
+- Rodrigo Valdelvira
 
 ## Introducción
 
 git push desde gitkraken
 
 ## Cambios realizados por Julio
+
 Y hago algun otro cambio (con su commit)
 
 ## Compartiendo proyecto con Julio
@@ -22,7 +23,6 @@ Y hago algun otro cambio (con su commit)
 Primer cambio
 
 Resolviendo conflictos en local
-
 
 Otro cambio más...
 Para no tener que resolver conflictos a mano.
@@ -34,3 +34,5 @@ Cambios en feature 5 (hechos por Julio)
 Cambios para el release 0.0.1
 
 Cambios para el release 0.0.2 (hechos por Julio)
+
+Cambios para el release 0.0.3 (Rodrigo)
