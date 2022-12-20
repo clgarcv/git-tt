@@ -4,11 +4,17 @@ Hola
 Cambio desde Github.com
 Recibido en local
 
-# Introducción
+## Participantes
+
+* Clara García 
+* Julio Losantos
+* Rodrigo Valdelvira
+
+## Introducción
 
 git push desde gitkraken
 
-# Cambios realizados por Julio
+## Cambios realizados por Julio
 Y hago algun otro cambio (con su commit)
 
 ## Compartiendo proyecto con Julio
